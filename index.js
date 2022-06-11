@@ -1,4 +1,4 @@
-const PogyClient = require("./Pogy");
+const PogyClient = require("./MEE8");
 const config = require("./config.json");
 const domain = require("./config.js");
 
