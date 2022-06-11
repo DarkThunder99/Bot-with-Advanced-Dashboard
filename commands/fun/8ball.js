@@ -26,7 +26,10 @@ module.exports = class extends Command {
         "Absolutely!",
         "Ask your mom.",
         "LMAO no.",
-        "Uhhh...?"
+        "Uhhh...?",
+        "What ARE you asking me here...?",
+        "Stop asking me weird questions bro",
+        "WUT?"
       ];
       let result = Math.floor((Math.random() * replies.length));
       let question = args.slice().join(" ");
