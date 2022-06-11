@@ -6,7 +6,7 @@ const { token } = require('./utils/variables');
 
 
 
-module.exports = class MEE8Client extends Client {
+module.exports = class PogyClient extends Client {
 	constructor(options = {}, sentry) {
 	  super({
       partials: ['MESSAGE', 'CHANNEL', 'REACTION', 'GUILD_MEMBER', 'USER'],
