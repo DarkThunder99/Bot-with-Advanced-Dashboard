@@ -1,7 +1,7 @@
 module.exports = {
  "verification": "",
  "description": "",
- "domain": "", // This Domain needs to be with https:// or http:// (eg: https://hydrabot.fun not hydrabot.fun)
+ "domain": "", // This domain needs to be with https:// or http:// (eg: https://hydrabot.fun not hydrabot.fun)
  "google_analitics": "", 
  "token": "",
  "https":"https://",
