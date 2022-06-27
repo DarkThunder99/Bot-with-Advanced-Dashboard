@@ -1,14 +1,14 @@
 {
-  "main_token": "", 
-  "mongodb_url": "",
+  "main_token": "OTcwMDk0ODMxODE4OTMyMzI0.Gi4VrK.rYnrvHGo1ab_Vazx2-j3zmdKA8SIDJcfAdVpEM", 
+  "mongodb_url": "mongodb+srv://Nathaniel:G2NZ1il0lJYxN0hz@cluster0.coqpu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "alexflipnoteApiKey":"",
-  "developers": [""],
-  "datadogApiKey": "",
+  "developers": ["690288007638548522", "878089951961554955", "703022317122617434"],
+  "datadogApiKey": "98a87eab6e7c55dd345b98c60d1f67d6",
   "dashboard":"true", 
   "prefix":"!",
   "arc":"",
-  "youtube_key":"",
-  "cat_api_key":"",
-  "webhook_id":"",
-  "webhook_url":""
+  "youtube_key":"AIzaSyCaBxRiETddtIDeBCphGgGrDDyXfARo91k",
+  "cat_api_key":"aa193b1a-c5b3-41ed-8e3a-c83dc553b5d0",
+  "webhook_id":"989443180195872788",
+  "webhook_url":"iwD2rnKieWhmZIVOI7IHw5lRZ2cP5t8J-m1FK1qpnsYRnTua_t5B-ODRG9Ar8XE_45cV"
 }
