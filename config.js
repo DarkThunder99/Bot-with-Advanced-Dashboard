@@ -3,11 +3,11 @@ module.exports = {
  "description": "",
  "domain": "https://mee8.ml", // This Domain need to be without https:// or http:// (eg: hydrabot.fun not https://hydrabot.fun)
  "google_analitics": "", 
- "token": "OTcwMDk0ODMxODE4OTMyMzI0.Gi4VrK.rYnrvHGo1ab_Vazx2-j3zmdKA8SIDJcfAdVpEM",
+ "token": "**********************************************************************",
  "https":"https://",
  "port":"5003",
  "client_id":"970094831818932324",
- "secret":"pO70VvKs7REZiLOuAKrKN2cWSO-TEPn-",
+ "secret":"********************************",
  "support_server_link":"https://discord.gg/gGCTeCx2TS",
  "bot_name":"MEE8"
 }
