@@ -1,13 +1,13 @@
 module.exports = {
  "verification": "",
  "description": "",
- "domain": "", // This Domain need to be without https:// or http:// (eg: hydrabot.fun not https://hydrabot.fun)
+ "domain": "https://mee8.ml", // This Domain need to be without https:// or http:// (eg: hydrabot.fun not https://hydrabot.fun)
  "google_analitics": "", 
- "token": "",
+ "token": "**********************************************************************",
  "https":"https://",
  "port":"5003",
- "client_id":"",
- "secret":"",
- "support_server_link":"",
- "bot_name":""
+ "client_id":"970094831818932324",
+ "secret":"********************************",
+ "support_server_link":"https://discord.gg/gGCTeCx2TS",
+ "bot_name":"MEE8"
 }

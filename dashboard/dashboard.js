@@ -254,11 +254,11 @@ var url = req.protocol + '://' + req.get('host') + req.originalUrl;
     });
 
     app.get("/support", (req, res) => {
-      res.redirect(`https://discord.gg/FqdH4sfKBg`)
+      res.redirect(`https://discord.gg/gGCTeCx2TS`)
     });
 
     app.get("/server", (req, res) => {
-      res.redirect(`https://discord.gg/FqdH4sfKBg`)
+      res.redirect(`https://discord.gg/gGCTeCx2TS`)
     });
 
    app.get('/invite', function(req, res) {
@@ -636,7 +636,7 @@ channel.send(embed)
     // Dashboard endpoint.
     app.get("/dashboard", checkAuth, (req, res) => {
 
-      const server = client.guilds.cache.get('831447691963793418');
+      const server = client.guilds.cache.get('926982141441622016');
       let user = server.members.cache.has(req.user.id);
 
 
